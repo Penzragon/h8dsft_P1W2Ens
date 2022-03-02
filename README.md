@@ -28,7 +28,7 @@ Keterangan kolom pada dataset ini adalah:
 | time                     | Follow-up period (days)                                                |
 | DEATH_EVENT              | If the patient deceased during the follow-up period (boolean)          |
 
-## Objective
+## Objectives
 
 **Graded Challenge 3** ini dibuat guna mengevaluasi konsep Ensemble Learning sebagai berikut:
 
