@@ -1,6 +1,6 @@
 # Hacktiv8 Phase 1: Graded Challenge 3
 
-Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Ensemble.
+Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Ensemble Learning.
 
 ---
 
@@ -30,8 +30,8 @@ Keterangan kolom pada dataset ini adalah:
 
 ## Objectives
 
-**Graded Challenge 3** ini dibuat guna mengevaluasi konsep Ensemble Learning sebagai berikut:
+**Graded Challenge 3** ini dibuat guna mengevaluasi konsep Ensemble sebagai berikut:
 
-- Mampu memahami konsep Ensemble dan Boosting
-- Mampu mempersiapkan data untuk digunakan dalam model Random Forest dan Boosting.
-- Mampu mengimplementasikan Random Forest dan Boosting untuk membuat prediksi.
+- Mampu memahami konsep Classification dengan Ensemble Model.
+- Mampu mempersiapkan data untuk digunakan dalam Ensemble Model.
+- Mampu mengimplementasikan Ensemble Model untuk membuat prediksi.
