@@ -6,6 +6,8 @@ Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Sc
 
 By [Rifky Aliffa](https://github.com/Penzragon)
 
+![heart](https://images.everydayhealth.com/images/heart-health/heart-disease/10-essential-facts-about-heart-failure-1440x810.jpg?sfvrsn=e944ac39_0)
+
 ## Dataset
 
 Dataset yang digunakan pada project ini adalah dataset yang berisi data pasien yang memiliki penyakit gagal jantung. Dataset ini berisi 299 baris dengan 13 kolom yang diantaranya adalah age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, dan masih banyak lagi. dataset dapat dilihat di [Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).
